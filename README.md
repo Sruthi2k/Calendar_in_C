@@ -1,2 +1,3 @@
 # Calendar_in_C
 It is a console application without graphics. To make the calendar look colorful, many windows properties have been used in this project. Besides the color used in backgrounds, the days of the month are white and the vacations (Sundays) are indicated using the red foreground color.  In this mini project, you can find out the day corresponding to a given date and view the days and dates corresponding to a particular month+year.
+Before compiling that code in your local enviroment create a file named "note.dat" at the location where this program is saved. Dat file stores arbitrary data. The note created stores in dat file.
